@@ -5,6 +5,6 @@ It's good!
 This is link for another link https://dhlee421.github.io/mfcapp
 
 
-<img src="\Coset2.PNG">
+<!-- <img src="\Coset2.PNG"> -->
 Second Screens
-<img src="\Coset3.PNG">
+<!-- <img src="\Coset3.PNG"> -->
