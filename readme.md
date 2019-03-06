@@ -1,4 +1,4 @@
-I want to write documents for a MFC(Microsoft Foundation Component).
+I want to write documents for a MFC(Microsoft Foundation Class).
 
 It's good!
 
