@@ -1,5 +1,5 @@
 # Function Quick Reference 
-### convert legacy code to support Unicode and _MBCS
+### Convert legacy code to support Unicode and _MBCS
 
 Function |_UNICODE  | TCHAR     | Description
 ---------|----------|-----------|-------------------------
