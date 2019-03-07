@@ -1,5 +1,6 @@
 # Function Quick Reference 
 ###convert legacy code to support Unicode and _MBCS###
+
 Function |_UNICODE  | TCHAR     | Description
 ---------|----------|-----------|-------------------------
 strcpy   | wcscpy   | _tcscpy   | (문자열을 복사) 
