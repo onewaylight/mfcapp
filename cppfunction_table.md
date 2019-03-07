@@ -19,3 +19,5 @@ strnset  | wcsnset  | _tscnset  | (사이즈 만큼 문자 치환)
 strupr   | wcsupr   | _tcsupr   | (대문자로 치환)
 strlwr   | wcslwr   | _tcslwr   | (소문자로 치환) 
 strrev   | wcsrev   | _tcsrev   | (문자열 역정렬) => "가나다라마" -> "마라다나가"
+atoi     |          | _tstoi    |
+atof     |          | _tstof    |
