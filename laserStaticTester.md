@@ -8,9 +8,10 @@
 * Agilent 86120B Wavelength meter
 * ILX Lightwave LDT5948 Temperature Controller
 
+Communication Protocol: GPIB, RS-232C
 계측기와의 주요 통신은 GPIB 및 RS-232C로 통신을 합니다.
-테스트 후 결과를 Excel File로 출력하며 그 정보를 모델에 따라 DB화 하여 저장하도록
-되어있습니다.
+테스트 후 결과를 Excel File로 출력하며 그 정보를 모델에 
+따라 DB화 하여 저장하도록 되어있습니다.
 
 개발환경: Visual Studio 2010
 개발언어: VC++/MFC
