@@ -26,3 +26,5 @@ Communication Protocol: GPIB, RS-232C
 ![Software Screen4](/images/Gui-c4.PNG)
 #### Screen #5 ####
 ![Software Screen5](/images/Gui-c5.PNG)
+#### Screen #6 - Excel Report ####
+![Software Screen6](/images/excelReport.PNG)
