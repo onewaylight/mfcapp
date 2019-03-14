@@ -1,12 +1,10 @@
-I want to write documents for a MFC(Microsoft Foundation Class).
-
-It's good!
-
-This is link for another link https://dhlee421.github.io/mfcapp
-
+Windows Applications
 
 <!-- <img src="\Coset2.PNG"> -->
 Second Screens
 <!-- <img src="\Coset3.PNG"> -->
 #### MFC Application PortFolios ####
 [Laser Static Tester](laserStaticTester.md)
+
+
+https://dhlee421.github.io/mfcapp
