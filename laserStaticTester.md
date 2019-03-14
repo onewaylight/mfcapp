@@ -19,7 +19,7 @@ Communication Protocol: GPIB, RS-232C
 개발언어: VC++/MFC
 
 #### Screen #1 ####
-<img src=/images/Gui-c1.PNG width="700">
+<img src=/images/Gui-c1.PNG>
 
 #### Screen #2 ####
 <img src=/images/Gui-c2.PNG width="800" height="600">
