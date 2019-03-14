@@ -37,4 +37,4 @@ Communication Protocol: GPIB, RS-232C
 ![](images/excelReport.PNG)
 
 #### Screen #7 - Instruments Connection Diagram ####
-![](images/LD-SigLine.PNG)
+![](images/LD-SigLine.png)
