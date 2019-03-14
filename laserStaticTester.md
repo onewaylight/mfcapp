@@ -22,19 +22,19 @@ Communication Protocol: GPIB, RS-232C
 ![](images/Gui-c1.PNG)
 
 #### Screen #2 ####
-<img src=/images/Gui-c2.PNG>
+![](images/Gui-c2.PNG)
 
 #### Screen #3 ####
-<img src=/images/Gui-c3.PNG>
+![](images/Gui-c3.PNG)
 
 #### Screen #4 ####
-<img src=/images/Gui-c4.PNG>
+![](images/Gui-c4.PNG)
 
 #### Screen #5 ####
-<img src=/images/Gui-c5.PNG>
+![](images/Gui-c5.PNG)
 
 #### Screen #6 - Excel Report ####
-<img src=/images/excelReport.PNG>
+![](images/excelReport.PNG)
 
 #### Screen #7 - Instruments Connection Diagram ####
-<img src=/images/LD-SigLine.png>
+![](images/LD-SigLine.PNG)
