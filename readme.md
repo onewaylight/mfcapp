@@ -1,6 +1,6 @@
 <!-- <img src="\Coset2.PNG"> -->
 <!-- <img src="\Coset3.PNG"> -->
-#### MFC Application PortFolios ####
+#### MFC Applications ####
 [Laser Static Tester](laserStaticTester.md)
 
 
