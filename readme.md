@@ -1,5 +1,3 @@
-Windows Applications
-
 <!-- <img src="\Coset2.PNG"> -->
 <!-- <img src="\Coset3.PNG"> -->
 #### MFC Application PortFolios ####
