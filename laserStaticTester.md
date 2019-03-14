@@ -28,7 +28,7 @@ Communication Protocol: GPIB, RS-232C
 <img src=/images/Gui-c3.PNG width="800" height="600">
 
 #### Screen #4 ####
-<img src=/images/Gui-c4.PNG width="500">
+<img src=/images/Gui-c4.PNG>
 
 #### Screen #5 ####
 <img src=/images/Gui-c5.PNG>
