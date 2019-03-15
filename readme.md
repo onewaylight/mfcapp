@@ -7,7 +7,9 @@
 - [Sensor Monitor GUI](sensorMonitor.md) 
 
 #### Programming References ####
-[C++ Function for Unicode vs MBCS](cppfunction_table.md)
+
++ [C++ Function for Unicode vs MBCS](cppfunction_table.md)
 
 #### ETC ####
-https://dhlee421.github.io/mfcapp
+
++ https://dhlee421.github.io/mfcapp
