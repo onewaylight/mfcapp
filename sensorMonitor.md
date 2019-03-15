@@ -9,6 +9,7 @@
   - Atmel Studio 7
   - Atmega128
   - ISP Programmer
+  - RS-232C Communication
 
 
 ![Image](/images/SensorMonitorBD.png)
