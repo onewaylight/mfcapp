@@ -7,3 +7,5 @@
 
 
 ![](/images/arduinoDustSensor.jpg)
+
+[Working Clip](https://youtu.be/wlITmxAuJRY)
