@@ -3,6 +3,10 @@
 
 High Speed and High Precision DC Motor Performance Test Software.
 
+* Tools: Visual Studio 2010
+* Language: VC++/MFC
+* OS: Windows 7
+
 ![Image](/images/RemaTypeAB.png)
 
 ```
@@ -15,6 +19,7 @@ Communication Type: CAN Bus
 - Motor : __maxon DC Motor__
 - Motor Controller: **EPOS2**
 - Communication Type: **USB**
+- EPOS Driver Library
 
 ![Image](/images/RemaTypeB.PNG)
 
