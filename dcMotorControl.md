@@ -3,7 +3,7 @@
 
 High Speed and High Precision DC Motor Performance Test Software.
 
-![Image](/images/RemaTypeAB.PNG)
+![Image](/images/RemaTypeAB.png)
 
 Motor : maxon DC Motor
 Motor Controller: Accelnet 
