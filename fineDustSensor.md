@@ -1,4 +1,4 @@
-# Arduino Uno Sensor Test
+# Arduino Uno Sensor Prototype
 
 - Arduino Uno
 - PM2005
