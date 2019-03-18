@@ -11,5 +11,5 @@ Basically, this system support RS-232C, Ethernet, Zigbee, RF and so on.
 ##### GUI Screen #1 #####
 ![](/images/SensorLoggingSystem.png)
 
-##### GUI Screen #1 #####
+##### GUI Screen #2 #####
 ![](/images/SensorLoggingSystem2.png)
