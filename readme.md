@@ -8,6 +8,8 @@
 
 - [DC Motor Control Software](dcMotorControl.md)
 
+- [FDC Data Logging Software](fdcTestSoftware.md)
+
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
