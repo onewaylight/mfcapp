@@ -12,8 +12,8 @@ Communication Type: CAN Bus
 ```
 ![Image](/images/RemaTypeA.PNG)
 
-* Motor : __maxon DC Motor__
-* Motor Controller: **EPOS2**
-* Communication Type: USB
+- Motor : __maxon DC Motor__
+- Motor Controller: **EPOS2**
+- Communication Type: **USB**
 ![Image](/images/RemaTypeB.PNG)
 
