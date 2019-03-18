@@ -10,6 +10,7 @@
   - Atmega128
   - ISP Programmer
   - RS-232C Communication
+  - I2C Interface logic by Software
 
 
 ![Image](/images/SensorMonitorBD.png)
