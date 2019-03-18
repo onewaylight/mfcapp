@@ -6,7 +6,7 @@
 
 - [Sensor Monitor GUI](sensorMonitor.md) 
 
-- [DC Motor Control Spftware(dcMotorControl.md)
+- [DC Motor Control Spftware](dcMotorControl.md)
 
 #### Programming References ####
 
