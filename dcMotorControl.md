@@ -3,9 +3,9 @@
 
 High Speed and High Precision DC Motor Performance Test Software.
 
-* Tools: Visual Studio 2010
-* Language: VC++/MFC
-* OS: Windows 7
+* Visual Studio 2010
+* VC++/MFC
+* Windows 7
 
 ![Image](/images/RemaTypeAB.png)
 
