@@ -1,0 +1,2 @@
+
+![](/images/arduinoDustSensor.jpg)
