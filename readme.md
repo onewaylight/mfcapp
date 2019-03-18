@@ -10,6 +10,8 @@
 
 - [FDC Data Logging Software](fdcTestSoftware.md)
 
+-[Sensor Logging and Performance Prediction System](senLogPerformPredictor.md)
+
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
