@@ -16,7 +16,7 @@
 
 - [Ultra Fine Dust Sensor](fineDustSensor.md)
 
-- [Raspberry Pi Data Logger](raspberrypiLogger.md)
+- [Raspberry Pi Data Logger](raspLogger.md)
 
 
 
