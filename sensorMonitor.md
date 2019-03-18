@@ -1,8 +1,8 @@
-# Sensor Monitor
+# Temperature Sensor and Heat Controller 
 
 * Sensor
   - Temperature and Humidity sensor(HT-01D)
-  - Dust Sensor(Laser Particle Sensor) PM-2005
+  - Heat Module - 12V
   
 * Tool 
   - Visual Studio 2010, VC++/MFC
