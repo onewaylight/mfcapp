@@ -12,6 +12,18 @@
 
 - [Sensor Logging and Performance Prediction System](senLogPerformPredictor.md)
 
+#### Arduino Open Source Projects ####
+
+- [Ultra Fine Dust Sensor](fineDustSensor.md)
+
+- [Raspberry Pi Data Logger](raspberrypiLogger.md)
+
+
+
+#### 3D Printer DIY Project ####
+
+- CoreXY 
+
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
