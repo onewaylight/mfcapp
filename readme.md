@@ -6,6 +6,8 @@
 
 - [Sensor Monitor GUI](sensorMonitor.md) 
 
+- [DC Motor Control Spftware(dcMotorControl.md)
+
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
