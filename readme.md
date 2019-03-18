@@ -4,7 +4,7 @@
 
 - [Laser Static Tester](laserStaticTester.md)
 
-- [Sensor Monitor GUI](sensorMonitor.md) 
+- [Temperature Sensor and Heat control GUI](sensorMonitor.md) 
 
 - [DC Motor Control Software](dcMotorControl.md)
 
