@@ -6,4 +6,4 @@
 - 7inch HDMI LCD
 - GCC
 
-![](/images/raspberryLogger.md)
+![](/images/raspberryLogger.jpg)
