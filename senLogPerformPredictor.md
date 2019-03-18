@@ -1,4 +1,4 @@
-# Sensor Logging and Performance Predict System
+# Sensor Logging and Life Cycle Prediction System
 
 This is system support various sensors and interfaces.
 
