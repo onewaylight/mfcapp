@@ -10,7 +10,7 @@
 
 - [FDC Data Logging Software](fdcTestSoftware.md)
 
-- [Sensor Logging and Performance Prediction System](senLogPerformPredictor.md)
+- [Sensor Logging and Life Cycle Prediction System](senLogPerformPredictor.md)
 
 #### Arduino Open Source Projects ####
 
