@@ -1,5 +1,5 @@
 [Go to Main](readme.md)
-# Temperature Sensor and Heat Controller 
+# Coil Heater Temperature Control Software
 
 * Sensor
   - Temperature and Humidity sensor(HT-01D)
