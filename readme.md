@@ -33,4 +33,4 @@
 * https://dhlee421.github.io/mfcapp
 * Demostration Sensor Software!!!
 
-<img src="\Images\sc-timer.PNG">
+![](images/sc-timer.PNG)
