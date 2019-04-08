@@ -32,3 +32,5 @@
 
 * https://dhlee421.github.io/mfcapp
 * Demostration Sensor Software!!!
+
+<img src="\스크래치-타이머.PNG">
