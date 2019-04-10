@@ -33,4 +33,6 @@
 * https://dhlee421.github.io/mfcapp
 * Demostration Sensor Software!!!
 
-![](images/sc-timer.PNG)
+#### Scratch Samples ####
+- [Scratch Samples](ScratchSamples.md)
+
