@@ -1,2 +1,2 @@
-![](images/sc-timer.PNG=939x718)
-![](images/sc-spriterot.PNG | width=593)
+![](images/sc-timer.PNG){:height="718px" width="939px"}
+![](images/sc-spriterot.PNG)
