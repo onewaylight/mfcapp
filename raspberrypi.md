@@ -1,9 +1,9 @@
-
+```
 pm2 start app.js
 pm2 stop app.js
 pm2 monit
 pm2 log
-
+```
 
 sudo pm2 startup systemd -u pi
 sudo systemctl enable pm2-pi
