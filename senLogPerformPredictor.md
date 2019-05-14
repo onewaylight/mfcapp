@@ -1,6 +1,6 @@
 [Go to Main](readme.md)
 
-# Sensor Logging and Life Cycle Prediction System
+# System Monitoring and Life Cycle Prediction System
 
 This is system support various sensors and interfaces.
 
