@@ -13,6 +13,7 @@
   - RS-232C Communication
   - I2C Interface logic by Software
 
+This one use a ATMEL Atmega128 8bit mcu. In this project I used 12 temperature sensors same time. Actually Atmega128 support only 3 i2c channels. It use i2c function that implemented by software.
 
 ![Image](/images/SensorMonitorBD.png)
 
