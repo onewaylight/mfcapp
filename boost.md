@@ -63,6 +63,9 @@ Project -> Properties -> Configuration Properties
 	Linker -> General -> Additional Library Directories : d:\Libs\fftw\lib 
 	          Input -> Additional Dependencies : fftw3.lib 
 ```
+* Online eBooks
+https://theboostcpplibraries.com/
+
 
 # Performance Problems
 * Process Affinity
