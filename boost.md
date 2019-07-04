@@ -56,7 +56,7 @@ Project -> Properties -> Configuration Properties
 
 	Debugging -> Environment : PATH=D:\Libs\fftw\bin;%PATH%
 
-	General -> General -> Platform Toolset : Visual Studio 2017 (v141)
+	*General -> General -> Platform Toolset : Visual Studio 2017 (v141)*
 
 	C/C++ -> General -> Additional Include Directories : d:\Libs\fftw\include
 	
