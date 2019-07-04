@@ -8,7 +8,7 @@
 * use it!
 
 ```
->bjam --toolset=msvc-14.1 --built-type=complete --prefix=d:\Libs\Boost install
+>bjam --toolset=msvc-14.1 --built-type=complete --prefix=D:\Libs\Boost install
 ``` 
 
 **toolset**: Use this to specify the Visual C++ compiler to use. For Visual Studio 2017, this is msvc-14.1. 
