@@ -47,6 +47,22 @@ Project -> Properties -> Configuration Properties
 
 
 # fftw library usage
+* Download recent file. http:///www.fftw.org
+* run CMake and configure for x64
+* Modify CMAKE_INSTALL_PREFIX : Install final outputs.
+
+```
+Project -> Properties -> Configuration Properties
+
+	Debugging -> Environment : PATH=D:\Libs\fftw\bin;%PATH%
+
+	General -> General -> Platform Toolset : Visual Studio 2017 (v141)
+
+	C/C++ -> General -> Additional Include Directories : d:\Libs\fftw\include
+	
+	Linker -> General -> Additional Library Directories : d:\Libs\fftw\lib 
+	          Input -> Additional Dependencies : fftw3.lib 
+```
 
 # Performance Problems
 * Process Affinity
