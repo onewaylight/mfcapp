@@ -47,7 +47,7 @@ Project -> Properties -> Configuration Properties
 
 
 # fftw library usage
-* Download recent file. http:///www.fftw.org
+* Download recent file. http://www.fftw.org
 * run CMake and configure for x64
 * Modify CMAKE_INSTALL_PREFIX : Install final outputs.
 
