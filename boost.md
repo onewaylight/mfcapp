@@ -1,15 +1,15 @@
 # Boost compile
-* open visual studio command line 
+* Download boost library : https://www.boost.org/users/history/version_1_70_0.html
+* open Visual Studio 2017 Native Command Line Prompt
+* Extract downloaded boost zip files.
 * run bootstrap.bat
-* run b2
+* run b2 or bjam command with proper argument 
 * wait long time
+* use it!
 
-run Visual Studio 2017 Native Command line prompt
-Download most recent boost library source to local folder.
-
-https://www.boost.org/users/history/version_1_70_0.html
-
-```bjam --toolset=msvc-14.1 --built-type=complete --prefix=d:\Libs\Boost install``` 
+```
+>bjam --toolset=msvc-14.1 --built-type=complete --prefix=d:\Libs\Boost install
+``` 
 
 **toolset**: Use this to specify the Visual C++ compiler to use. For Visual Studio 2017, this is msvc-14.1. 
 
@@ -28,7 +28,7 @@ Project -> Properties -> Configuration Properties
 **--prefix**: Will be installed at descripted location.
 
 
-Visual Studio 2017 
+Visual Studio 2017 Project settting for use Boost library
 
 <pre>
 Project -> Properties -> Configuration Properties
