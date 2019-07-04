@@ -33,8 +33,6 @@ Visual Studio 2017
 <pre>
 Project -> Properties -> Configuration Properties
 
-	General -> General -> Platform Toolset : Visual Studio 2017 (v141)  - Only Check when it need to compile
-
 	C/C++ -> General -> Additional Include Directories : D:\Libs\Boost\include\boost-1_70
 	
 	Linker -> General -> Additional Library Directories : D:\libs\Boost\lib 
