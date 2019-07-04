@@ -35,16 +35,8 @@ Project -> Properties -> Configuration Properties
 
 	C/C++ -> General -> Additional Include Directories : D:\Libs\Boost\include\boost-1_70
 	
-	Linker -> General -> Additional Library Directories : D:\libs\Boost\lib 
+	*Linker -> General -> Additional Library Directories : D:\libs\Boost\lib *
 </pre>  
-
-
-
-
-# vxl library usage
-* need cmake 
-* download and install cmake package
-
 
 # fftw library usage
 * Download recent file. http://www.fftw.org
