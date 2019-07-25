@@ -55,12 +55,21 @@ Project -> Properties -> Configuration Properties
 	Linker -> General -> Additional Library Directories : d:\Libs\fftw\lib 
 	          Input -> Additional Dependencies : fftw3.lib 
 ```
-* Online eBooks
+# Online eBooks and Tutorials
 https://theboostcpplibraries.com/
+https://github.com/changkun/modern-cpp-tutorial
+https://thispointer.com/c11-tutorial/
+https://thispointer.com/stl-tutorials-and-interview-questions/
+
+
 
 
 # Performance Problems
 * Process Affinity
 * Thread Affinity
+
+# Machine Learning
+https://poloclub.github.io/ganlab/
+https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC
 
 
