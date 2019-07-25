@@ -56,10 +56,10 @@ Project -> Properties -> Configuration Properties
 	          Input -> Additional Dependencies : fftw3.lib 
 ```
 # Online eBooks and Tutorials
-https://theboostcpplibraries.com/
-https://github.com/changkun/modern-cpp-tutorial
-https://thispointer.com/c11-tutorial/
-https://thispointer.com/stl-tutorials-and-interview-questions/
+*https://theboostcpplibraries.com/
+*https://github.com/changkun/modern-cpp-tutorial
+*https://thispointer.com/c11-tutorial/
+*https://thispointer.com/stl-tutorials-and-interview-questions/
 
 
 
