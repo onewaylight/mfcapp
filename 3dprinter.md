@@ -2,6 +2,36 @@
 ## UBL Bed leveling
 - http://marlinfw.org/docs/features/unified_bed_leveling.html
 
+```
+;------------------------------------------
+;--- Setup and initial probing commands ---
+;------------------------------------------
+M502            ; Reset settings to configuration defaults...
+M500            ; ...and Save to EEPROM. Use this on a new install.
+M501            ; Read back in the saved EEPROM.  
+
+M190 S65        ; Not required, but having the printer at temperature helps accuracy
+M104 S210       ; Not required, but having the printer at temperature helps accuracy
+
+G28             ; Home XYZ.
+G29 P1          ; Do automated probing of the bed.
+G29 P2 B T      ; Manual probing of locations USUALLY NOT NEEDED!!!!
+G29 P3 T        ; Repeat until all mesh points are filled in.
+
+G29 T           ; View the Z compensation values.
+G29 S1          ; Save UBL mesh points to EEPROM.
+G29 F 10.0      ; Set Fade Height for correction at 10.0 mm.
+G29 A           ; Activate the UBL System.
+M500            ; Save current setup. WARNING: UBL will be active at power up, before any `G28`.
+
+;----------------------------------------------------
+;--- Use 3-point probe to transform a stored mesh ---
+;----------------------------------------------------
+G29 L1          ; Load the mesh stored in slot 1 (from G29 S1)
+G29 J           ; No size specified on the J option tells G29 to probe the specified 3 points
+                ; and tilt the mesh according to what it finds.
+```
+
 ## Z Axis Sensor offset
 > [M851](http://marlinfw.org/docs/gcode/M851.html) - Z Probe Offset
 
