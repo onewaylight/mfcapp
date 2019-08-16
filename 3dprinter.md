@@ -101,5 +101,9 @@ Bed PID Autotune Result
 	I 29.14
 	D 1314.83
 ```
+
+## Check Status
+> [M119](http://marlinfw.org/docs/gcode/M119.html) - Endstop States
+
 ## Marlin G-Code
 [G-Code list](http://marlinfw.org/meta/gcode/)
