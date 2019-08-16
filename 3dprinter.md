@@ -1,8 +1,8 @@
 
-Based Link
+##UBL Bed leveling
 - http://marlinfw.org/docs/features/unified_bed_leveling.html
 
-Z Axis Sensor offset
+##Z Axis Sensor offset
 ```
 M851 Z0;
 G28;
