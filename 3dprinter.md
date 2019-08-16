@@ -4,6 +4,7 @@
 
 ## Z Axis Sensor offset
 > [M851](http://marlinfw.org/docs/gcode/M851.html) - Z Probe Offset
+> [M211](http://marlinfw.org/docs/gcode/M211.html) - Software Endstops
 ```
 M851 Z0;
 G28;
