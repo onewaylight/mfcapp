@@ -29,7 +29,7 @@ M92 E152.0
 ```
 
 
-## G Cpde for EEPROM
+## G Code for EEPROM
 - [M500](http://marlinfw.org/docs/gcode/M500.html) - Save Settings
 - [M501](http://marlinfw.org/docs/gcode/M501.html) - Load Settings
 - [M502](http://marlinfw.org/docs/gcode/M502.html) - Factory Reset
