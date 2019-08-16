@@ -20,7 +20,7 @@ M211 S1		// Enable the end stops again
 ```
 
 Extruder Motor steps for Gear ratio (maybe M8)
-[M92](http://marlinfw.org/docs/gcode/M092.html) - Set Axis Steps per unit 
+> [M92](http://marlinfw.org/docs/gcode/M092.html) - Set Axis Steps per unit 
 ```
 M92 E152.0
 ```
