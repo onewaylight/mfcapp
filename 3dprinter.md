@@ -37,21 +37,19 @@ M503 Report Settings
 ```
 
 
-```
-M303 - PID Autotune
-M301 - Set Hotend PID
-M304 - Set Bed PID
-```
+- [M303](http://marlinfw.org/docs/gcode/M303.html) - PID Autotune
+- [M301](http://marlinfw.org/docs/gcode/M301.html) - Set Hotend PID
+- [M304](http://marlinfw.org/docs/gcode/M304.html) - Set Bed PID
 ```
 M303 E<Extruder> S<temperature> C<cycles>
 ```
-HOTEND:
+HOTEND PID Auto Tune command:
 ```
-	M303 E0 S240 C3
+M303 E0 S240 C3
 ```
-BED:
+BED PID Auto Tune Command:
 ```
-	M303 E-1 S80 C8
+M303 E-1 S80 C8
 ```
 
 ```
