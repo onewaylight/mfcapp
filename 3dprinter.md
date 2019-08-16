@@ -29,14 +29,13 @@ M92 E152.0
 ```
 
 
-```
-M500 Save Settings
-M501 Load Settings
-M502 Factory Reset
-M503 Report Settings
-```
+## G Cpde for EEPROM
+- [M500](http://marlinfw.org/docs/gcode/M500.html) - Save Settings
+- [M501](http://marlinfw.org/docs/gcode/M501.html) - Load Settings
+- [M502](http://marlinfw.org/docs/gcode/M502.html) - Factory Reset
+- [M503](http://marlinfw.org/docs/gcode/M503.html) - Report Settings
 
-
+## G Code for PID Auto tune
 - [M303](http://marlinfw.org/docs/gcode/M303.html) - PID Autotune
 - [M301](http://marlinfw.org/docs/gcode/M301.html) - Set Hotend PID
 - [M304](http://marlinfw.org/docs/gcode/M304.html) - Set Bed PID
