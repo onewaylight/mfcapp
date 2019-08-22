@@ -15,9 +15,9 @@ Communication Protocol: GPIB, RS-232C
 테스트 후 결과를 Excel File로 출력하며 그 정보를 모델에 
 따라 DB화 하여 저장하도록 되어있습니다.
 
-- Target OS: Windows 
-- Tools : Visual Studio 2010
-- Language : VC++/MFC
+- **Target OS** : Windows 
+- **Tools** : Visual Studio 2010
+- **Language** : VC++/MFC
 
 #### Screen #1 ####
 ![](images/Gui-c1.PNG)
