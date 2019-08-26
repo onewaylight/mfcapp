@@ -15,7 +15,7 @@ std::thread thObj(<CALLBACK>);
 ```
 
 # Creating a thread using Function Pointer
-```cpp
+```C++
 #include <iostream>
 #include <thread>
  
@@ -38,7 +38,7 @@ int main()  
 ```
 
 # Creating a thread using Function Objects
-```
+```C++
 #include <iostream>
 #include <thread>
 class DisplayThread
