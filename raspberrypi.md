@@ -16,3 +16,12 @@ $ sudo pm2 save               # save current process list on reboot
 $ sudo pm2 unstartup          # disable PM2 from starting at system boot
 $ sudo pm2 update             # update PM2 package
 ```
+
+```
+vi /etc/rc.local
+sudo bash /home/pi/runlampCtrl.sh &
+
+vi runlampCtrl.sh
+cd /home/pi/GYLightSystem/LSServer
+pm2 start app.js
+```
