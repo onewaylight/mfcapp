@@ -1,4 +1,4 @@
-_unicode > multibyte_
+__unicode > multibyte__
 ```cpp
 wchar_t strUnicode[256] = {0,};
 char    strMultibyte[256] = {0,};
