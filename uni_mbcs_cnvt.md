@@ -7,7 +7,7 @@ int len = WideCharToMultiByte( CP_ACP, 0, strUnicode, -1, NULL, 0, NULL, NULL );
 WideCharToMultiByte( CP_ACP, 0, strUnicode, -1, strMultibyte, len, NULL, NULL );
 ```
 
-multibyte > unicode
+__multibyte > unicode__
 ``` cpp
 wchar_t strUnicode[256] = {0,};
 char    strMultibyte[256] = {0,};
@@ -16,7 +16,7 @@ int nLen = MultiByteToWideChar(CP_ACP, 0, strMultibyte, strlen(strMultibyte), NU
 MultiByteToWideChar(CP_ACP, 0, strMultibyte, strlen(strMultibyte), strUnicode, nLen);
 ```
 
-unicode > utf8
+__unicode > utf8__
 ``` cpp
 wchar_t strUni[256] =L"유니코드";
 char strUtf8[256] ={0,};
@@ -24,7 +24,7 @@ int nLen = WideCharToMultiByte(CP_UTF8, 0, strUni, lstrlenW(strUni), NULL, 0, NU
 WideCharToMultiByte (CP_UTF8, 0, strUni, lstrlenW(strUni), strUtf8, nLen, NULL, NULL);
 ```
 
-utf8 > unicode
+__utf8 > unicode__
 ``` cpp
 wchar_t strUnicode[256] = {0,};
 char    strUTF8[256] = {0,};
