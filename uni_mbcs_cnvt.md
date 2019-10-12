@@ -35,7 +35,8 @@ MultiByteToWideChar(CP_UTF8, 0, strUTF8, strlen(strUTF8), strUnicode, nLen);
 
 
 
-1) 유니코드 -> 멀티바이트
+**1) Unicode to MBCS**
+
 ``` cpp
 char* ConvertUnicodeToMultybyte(CString strUnicode)
 {
@@ -50,7 +51,7 @@ char* ConvertUnicodeToMultybyte(CString strUnicode)
 }
 ```
 
-2) 멀티바이트 -> 유니코드
+**2) MBCS to Unicode**
 ``` cpp
 CString ConvertMultibyteToUnicode(char* pMultibyte)
 {
@@ -70,10 +71,12 @@ CString ConvertMultibyteToUnicode(char* pMultibyte)
 }
 ```
 
-3) 사용예시
+**3) Usage**
 
+```
 CString strUnicode(_T("유니코드"));
 char* pMultibyte = ConvertUnicodeToMultibyte(strUnicode);
 
 char* pMultibyte = "멀티바이트";
 CString strUnicode = ConvertMultibyteToUnicode(pMultibyte);
+```
