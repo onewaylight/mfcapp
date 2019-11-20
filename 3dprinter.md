@@ -58,6 +58,17 @@ Extruder Motor steps for Gear ratio (maybe M8)
 M92 E152.0
 ```
 
+Set Acceleration 
+```
+M201 X1400 Y1400 T1400
+M500
+```
+
+Set Jerk
+```
+M205 X8 Y8 T8
+M500
+```
 
 ## G Code for EEPROM
 - [M500](http://marlinfw.org/docs/gcode/M500.html) - Save Settings
