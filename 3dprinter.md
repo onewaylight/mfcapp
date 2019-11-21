@@ -26,16 +26,12 @@ Default: 15
 Change to : 7
 
 Set Acceleration 
-```
 M201 X800 Y800 T8400
 M500
-```
 
 Set Jerk
-```
 M205 X7 Y7 T7
 M500
-```
 
 ;-----------------------------------------
 ;
