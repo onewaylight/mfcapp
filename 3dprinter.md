@@ -10,9 +10,9 @@ M500            ; ...and Save to EEPROM. Use this on a new install.
 M501            ; Read back in the saved EEPROM.  
 ```
 
-######-----------------------------------------
+-----------------------------------------
 ###### After initialize eeprom, must be set these parameters in use TMC2100 drivers
-######-----------------------------------------
+###### -----------------------------------------
 
 ## Must be set these parameter first.
 
