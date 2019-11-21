@@ -1,4 +1,3 @@
-
 ## UBL Bed leveling
 - http://marlinfw.org/docs/features/unified_bed_leveling.html
 
@@ -9,6 +8,38 @@
 M502            ; Reset settings to configuration defaults...
 M500            ; ...and Save to EEPROM. Use this on a new install.
 M501            ; Read back in the saved EEPROM.  
+
+;-----------------------------------------
+; After initialize eeprom, must be set these parameters in use TMC2100 drivers
+;-----------------------------------------
+
+## Must be set these parameter first.
+
+Acceleration and Jerk value
+
+Acceleration default value is 
+Default: 3000 
+Change to : 800
+
+Jerk default value is
+Default: 15
+Change to : 7
+
+Set Acceleration 
+```
+M201 X800 Y800 T8400
+M500
+```
+
+Set Jerk
+```
+M205 X7 Y7 T7
+M500
+```
+
+;-----------------------------------------
+;
+;-----------------------------------------
 
 M190 S65        ; Not required, but having the printer at temperature helps accuracy
 M104 S210       ; Not required, but having the printer at temperature helps accuracy
@@ -56,18 +87,6 @@ Extruder Motor steps for Gear ratio (maybe M8)
 > [M92](http://marlinfw.org/docs/gcode/M092.html) - Set Axis Steps per unit 
 ```
 M92 E152.0
-```
-
-Set Acceleration 
-```
-M201 X1400 Y1400 T1400
-M500
-```
-
-Set Jerk
-```
-M205 X8 Y8 T8
-M500
 ```
 
 ## G Code for EEPROM
