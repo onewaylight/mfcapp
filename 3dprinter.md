@@ -38,10 +38,9 @@ M205 X7 Y7 T7
 M500
 ```
 
-### Continu Test Procedures
-;-----------------------------------------
-;
-;-----------------------------------------
+-----------------------------------------
+##### Continue Test Procedures
+-----------------------------------------
 
 ```
 M190 S65        ; Not required, but having the printer at temperature helps accuracy
