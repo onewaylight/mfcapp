@@ -8,6 +8,7 @@
 M502            ; Reset settings to configuration defaults...
 M500            ; ...and Save to EEPROM. Use this on a new install.
 M501            ; Read back in the saved EEPROM.  
+```
 
 ;-----------------------------------------
 ; After initialize eeprom, must be set these parameters in use TMC2100 drivers
@@ -25,18 +26,24 @@ Jerk default value is
 Default: 15
 Change to : 7
 
-Set Acceleration 
+### Set Acceleration 
+```
 M201 X800 Y800 T8400
 M500
+```
 
-Set Jerk
+### Set Jerk
+```
 M205 X7 Y7 T7
 M500
+```
 
+### Continu Test Procedures
 ;-----------------------------------------
 ;
 ;-----------------------------------------
 
+```
 M190 S65        ; Not required, but having the printer at temperature helps accuracy
 M104 S210       ; Not required, but having the printer at temperature helps accuracy
 
