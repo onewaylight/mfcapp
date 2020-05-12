@@ -1,15 +1,11 @@
-1. 홍콩과기대 김성훈교수 강의
-http://hunkim.github.io/ml/
+1. [홍콩과기대 김성훈교수 강의](http://hunkim.github.io/ml/)
 
 
-2. 딥러닝 영상 분석
-https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5
+2. [딥러닝 영상 분석](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 
-3. 3Blue1Brown - Deep Learning
-https://www.youtube.com/playlist?list=PLLMP7TazTxHrgVk7w1EKpLBIDoC50QrPS
+3. [3Blue1Brown - Deep Learning](https://www.youtube.com/playlist?list=PLLMP7TazTxHrgVk7w1EKpLBIDoC50QrPS)
 
-4. 앤드류 응 교수님 딥러닝 강의
-https://www.edwith.org/deeplearningai1
+4. [앤드류 응 교수님 딥러닝 강의](https://www.edwith.org/deeplearningai1)
 https://www.edwith.org/deeplearningai2
 https://www.edwith.org/deeplearningai4
 
