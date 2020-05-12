@@ -5,15 +5,14 @@
 
 [3Blue1Brown - Deep Learning](https://www.youtube.com/playlist?list=PLLMP7TazTxHrgVk7w1EKpLBIDoC50QrPS)
 
-### 앤드류 응 교수님 딥러닝 강의
+##### 앤드류 응 교수님 딥러닝 강의
 * [딥러닝 1단계](https://www.edwith.org/deeplearningai1)
 * [딥러닝 2단계](https://www.edwith.org/deeplearningai2)
 * [딥러닝 3단계](https://www.edwith.org/deeplearningai4)
 
  
 
-앤드류 응 교수님 자연어처리 강의
-https://www.coursera.org/learn/nlp-sequence-models
+[앤드류 응 교수님 자연어처리 강의](https://www.coursera.org/learn/nlp-sequence-models)
 
 
 머신러닝 입문강의
