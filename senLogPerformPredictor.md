@@ -2,9 +2,9 @@
 
 # System Monitoring and Life Cycle Prediction System
 
-This is system support various sensors and interfaces.
+This system supports various sensors and interfaces.
 
-Basically, this system support RS-232C, Ethernet, Zigbee, RF and so on.
+Basically, it support RS-232C, Ethernet, Zigbee, RF and so on.
 
 
 #### Block Diagram ####
