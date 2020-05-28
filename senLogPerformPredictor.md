@@ -4,7 +4,7 @@
 
 This system supports various sensors and interfaces.
 
-Basically, it support RS-232C, Ethernet, Zigbee, RF and so on.
+Basically, it supports RS-232C, Ethernet, Zigbee, RF and so on.
 
 
 #### Block Diagram ####
