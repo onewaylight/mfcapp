@@ -20,7 +20,10 @@ Acceleration and Jerk value
 
 Acceleration default value is 
 Default: 3000 
-Change to : 800
+Change to : 800(1250)
+
+Acceleration Max
+Set to : 800 (700)
 
 Jerk default value is
 Default: 15
