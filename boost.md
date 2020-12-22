@@ -69,7 +69,7 @@ Project -> Properties -> Configuration Properties
 * Thread Affinity
 
 # Machine Learning
-https://poloclub.github.io/ganlab/
-https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC
+* https://poloclub.github.io/ganlab/
+* https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC
 
 
