@@ -29,12 +29,3 @@
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
-
-#### ETC ####
-
-* https://dhlee421.github.io/mfcapp
-* Demostration Sensor Software!!!
-
-#### Scratch Samples ####
-- [Scratch Samples](ScratchSamples.md)
-
