@@ -23,6 +23,7 @@
 #### 3D Printer DIY Project ####
 
 - CoreXY 
+- ![](images/3dPrinterT1.jpg)
 
 #### Programming References ####
 
