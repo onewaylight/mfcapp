@@ -24,7 +24,7 @@
 
 - CoreXY 
 
-![Image](/images/3dPrinterT1.jpg)
+![Image](/images/3dPrinterT1.png)
 
 #### Programming References ####
 
