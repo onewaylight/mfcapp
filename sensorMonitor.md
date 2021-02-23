@@ -2,8 +2,8 @@
 # Heater Temperature Control Software
 
 * Sensor
-  - Temperature and Humidity sensor(HT-01D), 12 channel
-  - Heat Module - 12V, 12 channel
+  - Temperature and Humidity sensor(HT-01D), 12 channels
+  - Heat Module - 12V, 12 channels
   
 * Tool 
   - Visual Studio 2010, VC++/MFC
