@@ -26,6 +26,9 @@
 
 ![Image](/images/3dPrinterT1.png)
 
+- [3D Printer Details](https://blog.daum.net/dhlee421/17)
+
+
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
