@@ -4,7 +4,7 @@
 
 - [Laser Static Tester](laserStaticTester.md)
 
-- [Coil Heater Temperature Control Software](sensorMonitor.md) 
+- [Heater Temperature Control Software](sensorMonitor.md) 
 
 - [DC Motor Control Software](dcMotorControl.md)
 
