@@ -1,9 +1,9 @@
 [Go to Main](readme.md)
-# Coil Heater Temperature Control Software
+# Heater Temperature Control Software
 
 * Sensor
-  - Temperature and Humidity sensor(HT-01D)
-  - Heat Module - 12V
+  - Temperature and Humidity sensor(HT-01D), 12 channel
+  - Heat Module - 12V, 12 channel
   
 * Tool 
   - Visual Studio 2010, VC++/MFC
