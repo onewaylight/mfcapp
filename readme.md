@@ -4,7 +4,7 @@
 
 - [Laser Static Tester](laserStaticTester.md)
 
-![Image](/images/Gui-c1-sm.PNG)
+     ![Image](/images/Gui-c1-sm.PNG)
 
 - [Heater Temperature Control Software](sensorMonitor.md) 
 
