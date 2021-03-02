@@ -8,6 +8,8 @@
 
 - [Heater Temperature Control Software](sensorMonitor.md) 
 
+     ![Image](/images/SensorMonitorBD-sm.png)
+
 - [DC Motor Control Software](dcMotorControl.md)
 
 - [FDC Data Logging Software](fdcTestSoftware.md)
