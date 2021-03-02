@@ -32,3 +32,7 @@
 #### Programming References ####
 
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
+
+#### Chart Display ####
+
+![Image](/images/chartjs-txtschsm.jpg)
