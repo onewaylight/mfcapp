@@ -47,6 +47,6 @@
 
 #### Chart Display ####
 
-- Display chart with result of search
+- Display chart result of search
 
      ![Image](/images/chartjs-txtschsm.jpg)
