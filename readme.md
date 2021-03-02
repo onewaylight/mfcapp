@@ -35,4 +35,6 @@
 
 #### Chart Display ####
 
+- Statistic of search resault to display with chart
+
 ![Image](/images/chartjs-txtschsm.jpg)
