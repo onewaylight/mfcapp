@@ -26,9 +26,11 @@
 
 - [Ultra Fine Dust Sensor](fineDustSensor.md)
 
+     ![Image](/images/arduinoDustSensor-sm.jpg)
+
 - [Raspberry Pi Data Logger](raspLogger.md)
 
-
+     ![Image](/images/raspberryLogger-sm.jpg)
 
 #### 3D Printer DIY Project ####
 
@@ -47,4 +49,4 @@
 
 - Statistic of search resault to display with chart
 
-![Image](/images/chartjs-txtschsm.jpg)
+     ![Image](/images/chartjs-txtschsm.jpg)
