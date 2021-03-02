@@ -46,7 +46,6 @@
 - [C++ Function for Unicode vs MBCS](cppfunction_table.md)
 
 #### Chart Display ####
-
-- Chart result of search
+- View trends in search result
 
      ![Image](/images/chartjs-txtschsm.jpg)
