@@ -12,9 +12,15 @@
 
 - [DC Motor Control Software](dcMotorControl.md)
 
+     ![Image](/images/RemaTypeAB-sm.png)
+
 - [FDC Data Logging Software](fdcTestSoftware.md)
 
+     ![Image](/images/FDC-Logger-sm.png)
+
 - [System Monitoring and Life Cycle Prediction System](senLogPerformPredictor.md)
+
+     ![Image](/images/SensorLoggingSystem-sm.png)
 
 #### Arduino Open Source Projects ####
 
