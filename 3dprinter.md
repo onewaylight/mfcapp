@@ -41,6 +41,14 @@ M205 X7 Y7 T7
 M500
 ```
 
+### Motor  Default Axis Steps per Units
+```
+X 80.5
+Y 80.5
+Z 400*1.014
+152
+```
+
 -----------------------------------------
 #### Continue Test Procedures
 -----------------------------------------
@@ -142,3 +150,4 @@ Bed PID Autotune Result
 
 ## Marlin G-Code
 [G-Code list](http://marlinfw.org/meta/gcode/)
+
